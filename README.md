@@ -27,9 +27,9 @@ Solana Near Me is the first Seeker mobile app that helps you find Solana merchan
 
 This monorepo contains three main components:
 
-- **[`solana-near-me-mobile-app/`](./solana-near-me-mobile-app/)** - React Native mobile application with Solana Pay integration
-- **[`solana-near-me-backend/`](./solana-near-me-backend/)** - NestJS backend API for transaction processing and NFT minting
-- **[`solana-near-me-merchant-program/`](./solana-near-me-merchant-program/)** - Solana smart contract for merchant registration and rewards
+- **[`solana-near-me-mobile-app/`](https://github.com/Krane-Apps/solana-near-me/)** - React Native mobile application with Solana Pay integration
+- **[`solana-near-me-backend/`](https://github.com/Krane-Apps/solana-near-me-backend/)** - NestJS backend API for transaction processing and NFT minting
+- **[`solana-near-me-merchant-program/`](https://github.com/Krane-Apps/solana-near-me-merchant-program/)** - Solana smart contract for merchant registration and rewards
 ## 🚀 Features
 
 - **Interactive Map**: Discover crypto-accepting merchants in Bangalore
