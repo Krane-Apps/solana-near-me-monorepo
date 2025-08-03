@@ -1,0 +1,9 @@
+[submodule "solana-near-me-backend"]
+	path = solana-near-me-backend
+	url = git@github.com:Krane-Apps/solana-near-me-backend.git
+[submodule "solana-near-me-merchant-program"]
+	path = solana-near-me-merchant-program
+	url = git@github.com:Krane-Apps/solana-near-me-merchant-program.git
+[submodule "solana-near-me-mobile-app"]
+	path = solana-near-me-mobile-app
+	url = https://github.com/Krane-Apps/solana-near-me.git
