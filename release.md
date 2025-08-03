@@ -1,6 +1,6 @@
 # 🚀 NearMe - Solana dApp Store Release
 
-![Release Banner](assets/release.png)
+<img width="623" height="242" alt="release" src="https://github.com/user-attachments/assets/bf9453f8-4751-4617-8efe-2e6984752301" />
 
 ## 📱 App Information
 
